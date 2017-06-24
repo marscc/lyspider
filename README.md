@@ -1,2 +1,2 @@
 # lyspider
-a spider base on scrapy
+a spider based on scrapy
